@@ -14,7 +14,7 @@ class SignUpWidget extends StatelessWidget {
         child: SingleChildScrollView(
           child: Container(
             color: ConstColorTheme.backGrounColor,
-            padding: const EdgeInsets.fromLTRB(38, 49, 38, 30),
+            padding: const EdgeInsets.fromLTRB(38, 56, 38, 30),
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.center,
               children: [

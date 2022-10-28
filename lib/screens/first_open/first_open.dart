@@ -11,7 +11,7 @@ class FirstOpen extends StatelessWidget {
         child: SingleChildScrollView(
           child: Container(
             color: ConstColorTheme.backGrounColor,
-            padding: const EdgeInsets.only(top: 126),
+            padding: const EdgeInsets.only(top: 56),
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.center,
               mainAxisAlignment: MainAxisAlignment.center,
